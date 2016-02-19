@@ -1,5 +1,7 @@
 # StoryboardPod
 
+Demo Pod application that shows error when referencing bundled Storyboards.
+
 [![CI Status](http://img.shields.io/travis/Jordy van Kuijk/StoryboardPod.svg?style=flat)](https://travis-ci.org/Jordy van Kuijk/StoryboardPod)
 [![Version](https://img.shields.io/cocoapods/v/StoryboardPod.svg?style=flat)](http://cocoapods.org/pods/StoryboardPod)
 [![License](https://img.shields.io/cocoapods/l/StoryboardPod.svg?style=flat)](http://cocoapods.org/pods/StoryboardPod)
