@@ -1,0 +1,14 @@
+PODS:
+  - StoryboardPod (0.1.0)
+
+DEPENDENCIES:
+  - StoryboardPod (from `../`)
+
+EXTERNAL SOURCES:
+  StoryboardPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  StoryboardPod: d6a67a51312900ef2692209f51a75cca8a5748b1
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,6 @@
+framework module StoryboardPod {
+  umbrella header "StoryboardPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

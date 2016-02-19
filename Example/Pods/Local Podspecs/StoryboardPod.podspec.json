@@ -1,0 +1,25 @@
+{
+  "name": "StoryboardPod",
+  "version": "0.1.0",
+  "summary": "A short description of StoryboardPod.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/StoryboardPod",
+  "license": "MIT",
+  "authors": {
+    "Jordy van Kuijk": "jordy@kineticvision.nl"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/StoryboardPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "StoryboardAssets": [
+      "Pod/Assets/*.{storyboard,png}"
+    ]
+  }
+}

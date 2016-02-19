@@ -1,0 +1,6 @@
+framework module Pods_StoryboardPod_Example {
+  umbrella header "Pods-StoryboardPod_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

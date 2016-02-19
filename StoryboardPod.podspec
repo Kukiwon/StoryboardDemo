@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/Classes/**/*'
   s.resource_bundles = {
-    'StoryboardPod' => ['Pod/Assets/*.png']
+    'StoryboardAssets' => ['Pod/Assets/*.{storyboard,png}']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
